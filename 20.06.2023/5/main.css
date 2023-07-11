@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+    width: 700px;
+    background: #e9b28e;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.name {
+    width: 120px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
+input {
+    width: 500px;
+    margin: 0 10px;
+    margin: 0 auto;
+}
+
+.row2 {
+    text-align: left;
+}
+
+.row3 {
+    text-align: left;
+}
+
+button {
+    width: 660px;
+    margin: 20px;
+}
+
+.writeQuestion {
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 20px;
+}

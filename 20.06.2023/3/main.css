@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background: #d6bfbf;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.form2 {
+    display: flex;
+}
+
+div {
+    margin: 10px 10px;
+}
+
+.col {
+    margin: 20px 20px 0 20px;
+    width: 50%;
+}
+
+.skills {
+    margin: 10px 10px 0 40px;
+}
+
+.but1 {}
+
+.gender {
+    margin-top: 20px;
+}
+
+select {
+    width: 100%;
+}
+
+label,
+span {
+    font-weight: bold;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.but1 {
+    margin: 10px auto;
+    width: 620px;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="date"] {
+    width: 100%;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+.button {
+    text-align: center;
+    background: #d6bfbf;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.table {
+    width: 700px;
+    background: #d6bfbf;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.col1 {}
+
+.rowdiv {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.nameinfo {
+    width: 30%;
+    border-right: 1px solid black;
+    ;
+}
+
+.firstnamevalue {}
+
+.lastnamevalue {}
+
+.birthday {}
+
+.gender {}
+
+.country {}
+
+.cityvalue {}
+
+.skillsvalue {}

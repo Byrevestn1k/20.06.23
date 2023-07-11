@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    width: 600px;
+    margin: 0 20px 20px;
+    padding: 20px;
+    background: rgb(228, 209, 192);
+}
+
+
+input {
+    width: 90%;
+}
+
+div {
+    width: 100%;
+    margin: 10px 0;
+    height: 60px;
+
+}
+
+label {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10% -15px 0;
+}
+
+button {
+    margin: 0px;
+    width: 91%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.username {
+    text-align: right;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+
+p[name="Remember"] {
+    font-weight: bold;
+}
+
+.Remember input {
+    width: 20px !important;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.Remember {
+    display: flex;
+    height: 30px;
+}
+
+.form2 * {
+    margin: 0;
+    padding: 0;
+}
+
+.form2 {
+    height: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.form2 label {
+    margin: 0 10% -15px 0;
+
+}
+
+.but2 {
+    width: 96%;
+}
